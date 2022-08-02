@@ -1,0 +1,23 @@
+.todo-container {
+  text-align: center;
+  height:80%;
+}
+
+.todoitem-container{
+  text-align: center;
+  height:80%;
+}
+
+.todo-items-container{
+  border: 1px solid;
+  height: 10em;
+  margin-left: -1px;
+  overflow-wrap: break-word;
+  overflow-y: auto;
+  //margin-top: 1px;
+}
+
+.input-container{
+  margin-bottom: 10px;
+
+}
